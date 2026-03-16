@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abdul Razzaqk Golap
 
-<!--
-**MARGoMatR9/MARGoMatR9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology enthusiast from Bangladesh.
 
-Here are some ideas to get you started:
+## Skills
+HTML
+CSS
+C Programming
+Video Editing
+Photoshop
+Canva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+YouTube Content Creator
+Game Modding and Customization
+
+## Currently Learning
+JavaScript
+Web Development
